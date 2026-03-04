@@ -1,2 +1,4 @@
 # rust-lab-1.3
-An exercise from the Rust Course on Coursera
+Exercise from the Rust Course on Coursera, Week 1 Assignment 3.
+
+
